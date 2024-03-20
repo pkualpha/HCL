@@ -1,3 +1,5 @@
+[Hypergraph Contrastive Learning for Electronic Health Records](https://epubs.siam.org/doi/10.1137/1.9781611977172.15)
+
 1. requirements:
 tensorflow 1.15 for data preprocessing
 
